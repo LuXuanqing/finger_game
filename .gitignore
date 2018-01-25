@@ -1,5 +1,6 @@
 *.mp4
 *.jpg
+*.png
 *.h5
 *.npz
 /.vscode
